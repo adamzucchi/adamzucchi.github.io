@@ -77,7 +77,7 @@ exclude:
 theme: jekyll-theme-tactile
 
 authors:
-  adam:
+  adamzucchi:
     display_name: Adam Zucchi
     gravatar: 7943abcfbb9033537c660b9acbbde412
     twitter: adamzucchi

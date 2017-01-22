@@ -4,6 +4,7 @@ layout: post
 title: My Path to Blogging About Xamarin Development
 date: 2017-01-20 12:23
 comments: true
+author: adamzucchi
 tags: [Xamarin]
 ---
 So let's cut right to the chase, I'm starting a blog!  More specifically a blog about "a day in the life of a Xamarin developer."  In the past I had occasionally worked on a blog but I wasn't consistent with the posts and I was using Wordpress which I wasn't a fan of.  This time is going to be different I promise.
