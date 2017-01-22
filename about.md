@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-###Welcome!
+### Welcome!
 My name is Adam Zucchi and I am a mobile application developer in Minneapolis, MN.  I love to learn and am all in on the Xamarin platform.  After working independently for five years I now work fulltime at a startup in Minneapolis called [Mobile Composer](https://www.mcomposer.com).  I am also a co-founder/organizer of the local Xamarin user group called [Minnesota Enterprise Mobile](https://www.meetup.com/Minnesota-Enterprise-Mobile/).
 
 ### More Information
