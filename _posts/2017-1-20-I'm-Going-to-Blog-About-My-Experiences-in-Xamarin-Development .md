@@ -13,7 +13,7 @@ I began looking at Xamarin in the 2nd quarter of 2013, so just shy of four years
 #### The Journey Begins  
 In April of 2013 a friend and colleague named Steve Killingbeck sent me the following email:  
 
-<img src="{{site.baseurl}}/images/20170120/new-path-xamarin.jpg" style="width: 600px;" />
+<img src="{{site.baseurl}}/images/20170120/new-path-xamarin.jpg" style="width: 400px;" />
 
 That email changed my career.  I soon realized I was in over my head with Xamarin and needed help.  I was trying to learn about the Xamarin platform, Xamarin.iOS, Xamarin.Android, a new IDE, and I was brand new to C#!  And when I say brand new I mean I had never written a line of C# in my life.
 
