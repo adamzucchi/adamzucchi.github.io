@@ -11,7 +11,7 @@ Sorry for the super long delay in posts, I actually have quire a few drafts goin
 
 I have always been interested in trying out new UI frameworks for Xamarin, more specificaly for Xamarin.Forms development.  I talked to the Telerik folks at their booth and got a demo of their tooling so I decided to give it a try.  Specifically I was very interested in their Xamarin.Forms ListView control called [RadListView](https://docs.telerik.com/devtools/xamarin/controls/listview/listview-overview).  Xamarin recently created a new ListView-esque control called CollectionView.  It looks promising however as of the writing of this article it is still in Preview and I try not to use Preview software in production apps.  
 
-###Telerik RadListView
+### Telerik RadListView
 RadListView has what we developers have come to expect from ListView controls, virtualization, data binding, grouping, the ability to setup a DataTemplate for our ViewCell, etc. What's really nice is that it has a **SelectionMode** property where you can define whether or not you want to be able to select a **Single** item in the list, **Multiple** items in the list, or **None**.  Another awesome feature of RadListView is the ability to set different [layout definitions](https://docs.telerik.com/devtools/xamarin/controls/listview/listview-features-layouts).  The default layout is Linear Layout, but you can also use a Grid Layout (distributes your cells across a number of rows/columns).  Within each of these layouts is where you can also set an orientation for the RadListView, meaning your list can either scroll vertically (the default) or horizontally (which is not currently possible in the current Xamarin.Forms ListView).
 
 ### Getting Started
@@ -101,16 +101,16 @@ One thing to note about my XAML is that I am bound to a public ObservableCollect
 
 You may also notice the use of CoreMethods in my MainPageModel class. This is because I am using [FreshMvvm](https://github.com/rid00z/FreshMvvm)!  I am a **HUGE** fan of FreshMvvm and love to use it in both proof of concepts and production apps, not to mention Michael Ridland is an awesome guy!
 
-###Result
+### Result
 <video width="410" height="895" autoplay="true" controls>
 	<source src="../images/20190716/monkeys.mp4" type="video/mp4" />
 </video>
 
-###Shortcomings and/or Bugs
+### Shortcomings and/or Bugs
 - Setup was initially painful, but with the help of the Telerik team I was able to get started so don't hesitate to contact them with questions - they are there to help!
 - For some reason when I setup an ItemTap Command I am getting multiple commands to fire in a row for different rows in the list. This appears to depend on the length of the list (with shorter lists (3 items) I am not seeing this)
 
-###The Good!
+### The Good!
 - Support, support, support! Whenever I use code libraries or UI frameworks it is huge for my team and I to know we have support from the library creator/provider. This was definitely the case with Telerik and I cannot stress the importance of this enough.
 -  Commands! Have the ability to wire up commands to your view/page model instead of event handlers in your view's code behind
 - RadListView orientation support! Until CollectionView from Xamarin is out of Preview us developers need the ability to have horizontally scrolling virtualized lists
