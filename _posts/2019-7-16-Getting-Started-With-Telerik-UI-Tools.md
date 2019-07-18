@@ -7,7 +7,7 @@ comments: true
 author: adamzucchi
 tags: [Xamarin, Telerik]
 ---
-Sorry for the super long delay in posts, I actually have quire a few drafts going but it's been way too long.  Anyways, I recently got back from Houston, TX after what was an **amazing** [Xamarin Developer Summit](https://xamarindevelopersummit.com) conference.  While at the conference I met tons of amazing people and companies, one of which was [Telerik](https://www.telerik.com) (a sponsor of the event).
+Sorry for the super long delay in posts, I actually have quite a few drafts going but it's been way too long.  Anyways, I recently got back from Houston, TX after what was an **amazing** [Xamarin Developer Summit](https://xamarindevelopersummit.com) conference.  While at the conference I met tons of amazing people and companies, one of which was [Telerik](https://www.telerik.com) (a sponsor of the event).
 
 I have always been interested in trying out new UI frameworks for Xamarin, more specificaly for Xamarin.Forms development.  I talked to the Telerik folks at their booth and got a demo of their tooling called [Telerik UI for Xamarin](https://www.telerik.com/xamarin-ui) and decided to give it a try.  Specifically I was very interested in their Xamarin.Forms ListView control called [RadListView](https://www.telerik.com/xamarin-ui/listview).  Xamarin recently created a new ListView-esque control called CollectionView.  It looks promising however as of the writing of this article it is still in Preview and I try not to use Preview software in production apps.
 
