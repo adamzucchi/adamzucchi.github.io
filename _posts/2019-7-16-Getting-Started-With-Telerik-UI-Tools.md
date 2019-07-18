@@ -89,7 +89,7 @@ You may also notice the use of CoreMethods in my MainPageModel class. This is be
 
 ### Shortcomings and/or Bugs  
 - Setup was initially painful, but with the help of the Telerik team I was able to get started so don't hesitate to contact them with questions - they are there to help!
-- For some reason when I setup an ItemTap Command I am getting multiple commands to fire in a row for different rows in the list. This appears to depend on the length of the list (with shorter lists (3 items) I am not seeing this)
+- **[Update 7/18/19 - After submitting a technical support ticket with Telerik and getting a response I revisted this issue and it turns out it was an envirornment issue on my end :( I was using Visual Studio for Mac in Preview version 8.2 so I could test out the newly announced Hot Reload feature from Xamarin and after switching back to the Stable channel version 8.1.5 I no longer experienced the issue.]**~~For some reason when I setup an ItemTap Command I am getting multiple commands to fire in a row for different rows in the list. This appears to depend on the length of the list (with shorter lists (3 items) I am not seeing this)~~
 
 ### The Good!  
 - Support, support, support! Whenever I use code libraries or UI frameworks it is huge for my team and I to know we have support from the library creator/provider. This was definitely the case with Telerik and I cannot stress the importance of this enough.
